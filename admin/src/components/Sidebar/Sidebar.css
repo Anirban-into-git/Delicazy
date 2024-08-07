@@ -4,6 +4,8 @@
     border: 1.5px solid #a9a9a9;
     border-top: 0;
     font-size: max(1vw,10px);
+  background-image: linear-gradient(to left,white 10%,#c3f5ff 100%);
+
 }
 .sidebar-options{
     padding-top: 50px;
